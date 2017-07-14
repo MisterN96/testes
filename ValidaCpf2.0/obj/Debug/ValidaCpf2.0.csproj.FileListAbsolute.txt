@@ -1,0 +1,9 @@
+c:\users\natanoliveira\documents\visual studio 2015\Projects\ValidaCpf2.0\ValidaCpf2.0\bin\Debug\ValidaCpf2.0.exe.config
+c:\users\natanoliveira\documents\visual studio 2015\Projects\ValidaCpf2.0\ValidaCpf2.0\bin\Debug\ValidaCpf2.0.exe
+c:\users\natanoliveira\documents\visual studio 2015\Projects\ValidaCpf2.0\ValidaCpf2.0\bin\Debug\ValidaCpf2.0.pdb
+c:\users\natanoliveira\documents\visual studio 2015\Projects\ValidaCpf2.0\ValidaCpf2.0\obj\Debug\ValidaCpf2.0.csprojResolveAssemblyReference.cache
+c:\users\natanoliveira\documents\visual studio 2015\Projects\ValidaCpf2.0\ValidaCpf2.0\obj\Debug\ValidaCpf2._0.Properties.Resources.resources
+c:\users\natanoliveira\documents\visual studio 2015\Projects\ValidaCpf2.0\ValidaCpf2.0\obj\Debug\ValidaCpf2.0.csproj.GenerateResource.Cache
+c:\users\natanoliveira\documents\visual studio 2015\Projects\ValidaCpf2.0\ValidaCpf2.0\obj\Debug\ValidaCpf2.0.exe
+c:\users\natanoliveira\documents\visual studio 2015\Projects\ValidaCpf2.0\ValidaCpf2.0\obj\Debug\ValidaCpf2.0.pdb
+C:\Users\natanoliveira\Documents\Visual Studio 2015\Projects\ValidaCpf2.0\ValidaCpf2.0\obj\Debug\ValidaCpf2._0.frmCpf.resources
